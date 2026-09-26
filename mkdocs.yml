@@ -1,7 +1,8 @@
-site_name: 离婚证制作与办理：标准离婚证样本防伪特征快速查询手册
-site_url: https://mzjsdq.readthedocs.io/zh-cn/latest/
+site_name: 毕业证样本，不同大学毕业证图片展示
+site_url: https://byenbk.readthedocs.io/zh-cn/latest/
 theme:
   name: material
   custom_dir: overrides
 
-
+markdown_extensions:
+  - meta
